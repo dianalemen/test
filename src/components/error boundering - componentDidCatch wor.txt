@@ -1,0 +1,4 @@
+error boundering - componentDidCatch works for children component
+fragment - <></> doesn't create extra DOM element
+suspend and lazy - lazy allows you to download import dynemiclly; suspend allows you hide copmponent which should be
+downloaded in beckground (preloading)
